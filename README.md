@@ -118,10 +118,10 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/PATRON-V1
+git clone https://github.com/type-your-username-here/Veran737
 ```
 ```
-cd PATRON-V1
+cd ANABELLE-V1
 yarn install 
 npm start
 ```
@@ -142,7 +142,7 @@ apt upgrade
 git clone (copy and paste your forked repo link not mine to save your changes) 
 ```
 ```
-cd PATRON-V1
+cd ANNABELLE_V1
 ```
 ```
 yarn install
@@ -152,14 +152,14 @@ npm start
 ```
 
 
-- Star ⭐ the repo if you like 𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆.
+- Star ⭐ the repo if you like ANNABELLE_MAIN.
 
 
 ## `Main Dev` 
-<a href="https://github.com/Itzpatron"><img src="https://telegra.ph/file/551d68eb74a30dda96c0c.jpg" width="250" height="250" alt="PATRON 🚹"/></a>
-<a href="https://github.com/asmakev930h"><img src="https://telegra.ph/file/229312c344db0a90bca65.jpg" width="250" height="250" alt="BLUE DEMON"/></a>
+<a href="https://github.com/Itzpatron"><img src="https://telegra.ph/file/2de480d228f0948a4f95b.jpg" width="250" height="250" alt="ANNABELLE 🚹"/></a>
+<a href="https://github.com/asmakev930h"><img src="https://telegra.ph/file/b99226b622bf566c90133.jpg" width="250" height="250" alt="BLUE DEMON"/></a>
 
-`𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 BY 𝙿𝙰𝚃𝚁𝙾𝙽 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽`
+`ANABELLE_V1 BY ANNABELLE AND VERAN`
 
 <h2 align="center">  Reminder
 </h2>
