@@ -23,15 +23,15 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348133729715'];
-global.ownMain = '2348133729715';
-global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
+global.owner = ['2347082664317'];
+global.ownMain = '2347082664317';
+global.NamaOwner = 'ANABELLE MAIN'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
-global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
-global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
-global.packname = 'PATRON 🚹'; // Change if needed
-global.url = 'https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q'; // Do not change
+global.namabot = 'ANABELLE MAIN'; // Do not change
+global.author = 'ANABELLE MAIN '; // Do not change
+global.packname = 'ANABELLE 🚹'; // Change if needed
+global.url = 'https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U'; // Do not change
 
 //===========================//
 
@@ -48,7 +48,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 global.country = '234';
 global.system = {
-  gmail: 'winneraileme6@gmail.com',
+  gmail: 'alphacobrat@gmail.com',
 };
 
 //===========================//
@@ -80,10 +80,10 @@ global.decor = {
 global.mess = {
   ingroup: 'This feature can only be used in groups.',
   admin: 'This feature is specifically for group admins🖕.',
-  owner: 'You are not the owner🫵😡.',
+  owner: 'Only veran and Annabelle are the group owner 🫵😡.',
   premium: 'You are not a premium user.',
   seller: 'This feature can only be used by resellers and the owner.',
-  usingsetpp: 'Setpp can only be used by the owner, do you think I\'m stupid? 😡🫵',
+  usingsetpp: 'Setpp can only be used by veran and Annabelle, do you think I\'m stupid? 😡🫵',
   wait: '*processing♻️ chillax....♻️*',
   success: '*Successful* 😈💯.....',
   bugrespon: '♻️😈😭 *Sent target to the afterlife.....* 🦠🕷️👾'
