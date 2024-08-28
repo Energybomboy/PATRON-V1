@@ -156,8 +156,8 @@ npm start
 
 
 ## `Main Dev` 
-<a href="https://github.com/Itzpatron"><img src="https://telegra.ph/file/445e91c420153437c5456.mp4" width="300" height="250" alt="ANNABELLE 🚹"/></a>
-<a href="https://github.com/asmakev930h"><img src="https://telegra.ph/file/445e91c420153437c5456.mp4" width="300" height="250" alt="BLUE DEMON"/></a>
+<a href="https://github.com/ItzAnabelle"><img src="https://telegra.ph/file/445e91c420153437c5456.mp4" width="220" height="280" alt="ANNABELLE 🚹"/></a>
+<a href="https://github.com/asmakev930h"><img src="https://telegra.ph/file/445e91c420153437c5456.mp4" width="250" height="300" alt=""/></a>
 
 `ANABELLE_V1 BY ANNABELLE AND VERAN`
 
