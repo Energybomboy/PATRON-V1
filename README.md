@@ -38,7 +38,7 @@ TESTING GROUP: <a href="https://chat.whatsapp.com/FasWdCVWTpBDdJOvkd8289"><img a
 2. Get Cred.json 
    
     
-     <a href='https://replit.com/@Itzpatron/ANNABELLE-Pairing' target="_blank"><img alt='CRED JSON' src='https://img.shields.io/badge/Cred.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://replit.com/@ItzAnabelle/main-Pairing' target="_blank"><img alt='CRED JSON' src='https://img.shields.io/badge/Cred.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ## Watch Tutorial videos.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-PANEL-blue?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ELsmTeFsHsI?si=-SP-FDYaels_0zEO)
@@ -52,7 +52,7 @@ TESTING GROUP: <a href="https://chat.whatsapp.com/FasWdCVWTpBDdJOvkd8289"><img a
 
 4. Now Deploy
     <br>
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="30"/></a></p>
 
 
 #### DEPLOY TO Toystack
@@ -65,7 +65,7 @@ TESTING GROUP: <a href="https://chat.whatsapp.com/FasWdCVWTpBDdJOvkd8289"><img a
 
 1. If You don't have an account in Heroku. Create a account.
     <br>
-<p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="300" height="38.45"/></a></p>
 ## `BUILDPACKS FOR HEROKU`
 
 ```
@@ -156,8 +156,8 @@ npm start
 
 
 ## `Main Dev` 
-<a href="https://github.com/Itzpatron"><img src="https://telegra.ph/file/2de480d228f0948a4f95b.jpg" width="250" height="250" alt="ANNABELLE 🚹"/></a>
-<a href="https://github.com/asmakev930h"><img src="https://telegra.ph/file/b99226b622bf566c90133.jpg" width="250" height="250" alt="BLUE DEMON"/></a>
+<a href="https://github.com/Itzpatron"><img src="https://telegra.ph/file/445e91c420153437c5456.mp4" width="300" height="250" alt="ANNABELLE 🚹"/></a>
+<a href="https://github.com/asmakev930h"><img src="https://telegra.ph/file/445e91c420153437c5456.mp4" width="300" height="250" alt="BLUE DEMON"/></a>
 
 `ANABELLE_V1 BY ANNABELLE AND VERAN`
 
