@@ -1,18 +1,19 @@
 <p align="center">  
   <a href="">
-    <img alt="𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆" height="300" src="https://telegra.ph/file/551d68eb74a30dda96c0c.jpg">
-    <h1 align="center">𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆</h1>
+    <img alt="ANNABELLE MAIN" height="300" src="https://telegra.ph/file/2de480d228f0948a4f95b.jpg">
+    <h1 align="center"ANNABELLE MAIN</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://t.me/textpatron_bot"><img title="Author" src="https://img.shields.io/badge/PATRON-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/text Anabelle_main
+  "><img title="Author" src="https://img.shields.io/badge/ANABELLE MAIN?style=for-the-badge&logo=telegram"></a>
 <p/>
 
 
 > If y'all get any suggestions, click the patron bot
 
 ####  
-𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 Whatsapp crasher Multi Device whatsapp bot.
+ANNABELLE MAIN Whatsapp crasher Multi Device whatsapp bot.
 <p align="center"><img src="https://profile-counter.glitch.me/{PATRON-V1}/count.svg" alt="itzpatron :: Visitor's Count" /></p>
 
 ***
@@ -20,24 +21,24 @@
  #### For more deployment platform join channel for update
 
 
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q"><img alt="WhatsApp" src="https://img.shields.io/badge/Join CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U"><img alt="WhatsApp" src="https://img.shields.io/badge/Join CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ***
 
-TESTING GROUP: <a href="https://chat.whatsapp.com/HSC7DAJOD9nBKbl7CmxxLb"><img alt="WhatsApp" src="https://img.shields.io/badge/JOIN GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+TESTING GROUP: <a href="https://chat.whatsapp.com/FasWdCVWTpBDdJOvkd8289"><img alt="WhatsApp" src="https://img.shields.io/badge/JOIN GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 #### SETUP
 
 1. Fork the repo
     <br>
-<a href='https://github.com/patronffx/PATRON-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Veran737/PATRON-V1/edit/patch-1/README.md' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
 2. Get Cred.json 
    
     
-     <a href='https://replit.com/@Itzpatron/Patron-Pairing' target="_blank"><img alt='CRED JSON' src='https://img.shields.io/badge/Cred.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://replit.com/@Itzpatron/ANNABELLE-Pairing' target="_blank"><img alt='CRED JSON' src='https://img.shields.io/badge/Cred.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ## Watch Tutorial videos.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-PANEL-blue?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ELsmTeFsHsI?si=-SP-FDYaels_0zEO)
@@ -93,7 +94,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 AINT AVAILABLE FOR NOW
 
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [PATRON-V1](https://github.com/Itzpatron/PATRON-V1) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING To DEPLOY PASTE https://github.com/Veran737/PATRON-V1/edit/patch-1/README.md) ON ANY TERMINAL
 
 ```
 sudo apt -y update && sudo apt -y upgrade
